@@ -1,0 +1,159 @@
+body {
+    background-color: #FEECE2;
+        
+}
+.container {
+    background-color: #FEECE2;
+    margin: 100px;
+    margin-bottom: 100px; 
+    
+}
+
+.container2 {
+     background-color: white;
+     margin:0;
+}
+
+.container3 {
+    background-color: white;
+    margin: 0;
+    min-width:100%;
+}
+
+.head {
+    max-height: 80vh;
+    
+     
+}
+
+.heading {
+    color: #9B4444;
+    text-align: center;
+   }
+   
+h1 {
+    font-family: satisfy, static;
+    font-size: 5rem;
+   }
+   
+h2 {
+    font-size: 2.5rem;
+    color: #9B4444;
+    text-align: center;
+    padding-top:100px;
+    
+    }
+   
+.underline {
+    text-decoration: underline;
+    }
+       
+.picture2 {
+    display: flex;
+    justify-content: center;  
+    }
+
+#photo1 {
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    }
+       
+.middle.text {
+    text-align: center;
+    }
+       
+.text {
+    text-align: center;
+    font-family: montserrat;
+    font-size: 15px;
+    font-weight: bold;
+    color: #40514e;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    }
+       
+.skills {
+    min-width:100%;
+    padding-right: 100px;
+    padding-left: 100px;
+    background-color: white;
+    }
+       
+.computer {
+    display:grid;
+    grid-template-columns: 1fr;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    
+    }
+       
+.text2 {
+    font-family: montserrat;
+    font-size: 15px;
+    font-weight: bold;
+    color: #40514e;
+    padding-left: 50px;
+    }
+       
+h4 {
+    font-family: montserrat;
+    font-size: 15px;
+    font-weight: bold;
+    color: #9B4444;
+    margin-top: 35px;
+    }
+       
+.container3 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-area: span;
+    }
+       
+#button {
+    color: white;
+    text-decoration: none;
+    
+    }
+       
+.contact {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
+    background-color: white;
+    }
+       
+.text3 {
+    padding-bottom:30px;
+    }
+       
+.text4 {
+    text-align: center;
+    font-family: montserrat;
+    font-size: 15px;
+    font-weight: bold;
+    color: #40514e;
+    }
+       
+.btn {
+    margin-top: 50px;
+    background-color: #9B4444;
+    color: white;
+    margin-bottom:50px;
+    }
+       
+.footer {
+    background-color: #FEECE2;
+    
+}  
+       
+.link {
+    text-decoration: none;
+    margin-right: 10px;
+    color: #9B4444;
+    }
+
+
